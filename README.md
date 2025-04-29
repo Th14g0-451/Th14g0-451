@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40128D&width=435&lines=Ol%C3%A1%2C+bem+vindo!" alt="Typing SVG)">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=40128D&background=FFFFFF00&Center=false&width=435&lines=%24+Ol%C3%A1%2C+bem+vindo+ao+meu+perfil!+%24" alt="Typing SVG" /></a>
   </a>
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-<h1 align="center">👨🏻‍💻 Thiago Cardoso</h1>
+<h1 align="center">Thiago Cardoso</h1>
 
 <p align="center"><i>🚀 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e inovação.</i></p>
 
@@ -21,7 +21,7 @@
 - 🎯 **Formação Anterior:** Farmácia
 - 🛠️ **Transição de Carreira:** Da área da Saúde para Tecnologia!
 
-Estou sempre aprendendo, criando projetos e ampliando meu portfólio, enfrentando cada desafio como uma oportunidade de crescimento. 🚀
+Estou sempre aprendendo, criando projetos e ampliando meu portfólio, enfrentando cada desafio como uma oportunidade de crescimento.🚀
 
 ### 🔗 Conecte-se comigo
 
@@ -33,13 +33,13 @@ Estou sempre aprendendo, criando projetos e ampliando meu portfólio, enfrentand
 <div style="display: flex; flex-wrap: wrap;" align="center">
 
 <img alt="HTML" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="PYTHON" title="PYTHON" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img alt="React" title="ReactJS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="C#" title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img alt="C++" title="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img alt="GITHUB" title="GITHUB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img alt="SQL" title="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="AWS" title="AWS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 </div>
 
@@ -59,14 +59,14 @@ src="https://github-readme-stats.vercel.app/api?username=Th14g0-451&show_icons=t
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="160" 
         style="padding-right: 10;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=th14g0-451&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" />
 
 
 </p>
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvertonLG/EvertonLG/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvertonLG/EvertonLG/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EvertonLG/EvertonLG/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Th14g0-451/Th14g0-451/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Th14g0-451/Th14g0-451/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Th14g0-451/Th14g0-451/output/github-contribution-grid-snake.svg">
 </picture>
