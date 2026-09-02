@@ -16,7 +16,7 @@
 
 - 🏡 **De:** São Paulo - SP
 - 🎓 **Cursando:** 3º semestre de **Análise e Desenvolvimento de Sistemas** na **UNIP**
-- 💼 **Profissão:** Técnico de Suporte de TI N1
+- 💼 **Profissão:** Desenvolvedor Jr
 - 🎯 **Formação anterior:** Farmácia
 - 🛠️ **Transição de carreira:** da área da Saúde para Tecnologia
 
@@ -48,7 +48,7 @@ Estou sempre aprendendo, criando projetos e ampliando meu portfólio, enfrentand
 ### 🐍 Contribuições no GitHub
 
 <p align="center">
-  A animação abaixo é atualizada automaticamente todos os dias.
+  
 </p>
 
 <picture>
