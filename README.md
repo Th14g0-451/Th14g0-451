@@ -47,10 +47,6 @@ Estou sempre aprendendo, criando projetos e ampliando meu portfólio, enfrentand
 
 ### 🐍 Contribuições no GitHub
 
-<p align="center">
-  A animação abaixo é atualizada automaticamente todos os dias.
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Th14g0-451/Th14g0-451/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Th14g0-451/Th14g0-451/output/github-contribution-grid-snake.svg" />
